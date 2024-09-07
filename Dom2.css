@@ -1,0 +1,17 @@
+#heading{
+  color:rgb(112, 112, 222);
+  background-color: pink;
+}
+
+body{
+  background-color: cornsilk;
+}
+
+p{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: cadetblue;
+}
+
+.para-hide{
+  visibility: hidden;
+}
